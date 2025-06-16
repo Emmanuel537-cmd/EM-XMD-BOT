@@ -21,7 +21,7 @@ const ev = {
 function adams(obj, fonctions) {
     let infoComs = obj;
     if (!obj.categorie) infoComs.categorie = "General";
-    if (!obj.reaction) infoComs.reaction = ""; // Default reaction
+    if (!obj.reaction) infoComs.reaction = "😎"; // Default reaction
     infoComs.fonction = fonctions;
     cm.push(infoComs);
     return infoComs;
