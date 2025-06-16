@@ -4,27 +4,27 @@
   "name": "BWM-XMD-QUANTUM",
   "description": "Best WhatsApp bot developed by Ibrahim Adams",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
-  "logo": "https://files.catbox.moe/2kcb4s.jpeg",
+  "logo": "https://files.catbox.moe/lyna05.jpg",
   "repository": "https://github.com/ekitale/maths-project",
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
-    "PREFIX": {
-      "description": "Choose your prefix for your bot",
+    "PREFIX": {.
+      "description": "A powerful bot by Emmanuel",
       "value": ".",
       "required": true
     },
-    "AUTO_REJECT_CALL": {
+    "AUTO_REJECT_CALL": {yes
       "description": "Enter yes for your bot to auto reject calls",
       "value": "no",
       "required": false
     },
-    "AUTO_BIO": {
-      "description": "Enter yes for your bot to auto update bio",
+    "AUTO_BIO": {Em-xmd bot
+      "description": "bio",
       "value": "no",
       "required": false
     },
-    "AUTO_REPLY_STATUS": {
+    "AUTO_REPLY_STATUS": {yes
       "description": "Enter yes for your bot to notify people that you have viewed there status",
       "value": "no",
       "required": false
@@ -49,32 +49,32 @@
       "value": "no",
       "required": false
     },
-    "BOT_NAME": {
+    "BOT_NAME": {EM-XMD
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": ".",
       "required": false
     },
-    "BOT_IMAGE": {
+    "BOT_IMAGE": {https://files.catbox.moe/lyna05.jpg
       "description": "Image URL for your bot menu",
       "value": "https://files.catbox.moe/h2ydge.jpg",
       "required": false
     },
-    "PUBLIC_MODE": {
+    "PUBLIC_MODE": {yes
       "description": "Type yes for public mode or no for private mode",
       "value": "yes",
       "required": false
     },
-    "HEROKU_API_KEY": {
+    "HEROKU_API_KEY": {.
       "description": "Enter your Heroku API key to be able to control your vars",
       "value": "",
       "required": true 
     },
-    "HEROKU_APP_NAME": {
+    "HEROKU_APP_NAME": {.
       "description": "Enter your Heroku app name to be able to control vars",
       "value": "",
       "required": true 
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {0784868165
       "description": "Enter your number eg, 2547xxxxxxx",
       "value": "",
       "required": true 
@@ -84,37 +84,37 @@
       "value": "💚,🚀,🌎,✅",
       "required": false 
     },
-    "AUTO_REACT": {
+    "AUTO_REACT": {😎
       "description": "Enter your auto react messages",
       "value": "no",
       "required": false 
     },
-   "AUTO_REACT_STATUS": {
+   "AUTO_REACT_STATUS": {💓
       "description": "Enter yes for your bot to auto like status",
       "value": "yes",
       "required": false 
     },
-    "OWNER_NAME": {
+    "OWNER_NAME": {Emmanuel
       "description": "Owner name",
       "value": "Ibrahim Adams",
       "required": false
     },
-    "SESSION_ID": {
+    "SESSION_ID": {BWM-XMD;;;H4sIAAAAAAAAA61V226jSBD9l36Ndw2Yq6VIyx18xSa2Y6/2oQ1t3Db3bm4Z+d9XOMlMpJnNZqXlqSm6qs6pOlV8A2mGCZqiDoy/gbzENaSoP9IuR2AMtOp0QiUYgBBSCMYAzy+z+KxcXx7CiT40dq6mWAdH20V2LtD2ybKW02AdrR/yxHwEtwHIq2OMg08Cwj3d5VOG0xb0yM4TflJE+qq9+NtuW83Xk8t2OkXDl+POV9VHcOsjQlziNDLzM0pQCeMp6jyIy6/B91XGMmqrLsIWPiikRc3iSnV8NdHlcsYqP5mtI3lZXN1N8zX40TaAXkpfKOWNQu8cpfP3msZyjh2rC7FsXVKvGk7Ops/NK3yCoxSFbohSimn35brPdfe5C6da7vE8X3uuRETmOFslSX1RyiRxBC3lQk1/4dLV14BzrLEw9GKxEOe5zcx4Z96Gsn2YOcvhHOf22l0U6iqtInZnfgTule9auf6XunOer14byc13G7stOH9rQ16wnGWHN2oo1N3+qRjGcLk1uf3X4NtpxMVXO6crnlknjMKElm2v+GxNhgWaPp23QjA/js5Bw7k/4ENalZ+h5OuOXRaios4Wjngoaj6fYmF/eFrmz3tYlWq1XWTlxGUhl9eOofIBtNfRuSz2ku+5iyu84DwVg9m1WbfSU33Wl8zOMFaPd0ZX1LkhGLO3AShRhAktIcVZ2ttGygDAsPZRUCJ6ry4whsuY45eyKRdh6MKVHSlSsZ7WPIoWjW77KHs4ts5woUrZIxiAvMwCRAgKHUxoVnZzRAiMEAHjP++N6jmXKMkomuCwb4c4kmReFmVWFP4gvzdnSAnM899TRMEAnMosmSMwpmWFBuDuIPKKqjKWqOuKJnOKziu6JWiWJYqMKaqy2jNMXpM+4QQRCpMcjFlJYBhpxMjCbfD/4GBUkR+JqqBbvCkJuqFq0kgyFda0OEuWRf1THCwj3/4agBS19FXG9+KzA3DCJaGbtMrjDIbvGn//CIMgq1Lqd2mg9wdUgvEHM6IUpxHpmVUpLIMzrpHe8wDjE4wJ+t5vVKLwncvbDtOzsJfhaOvOZNuzQY+9D/RTbcY883N5UtjfBrpp/jZR92AA4rvfaCQIEsMK0kgcje6evf32HXGfIEQU4pj03u6OcEvXMBdDpZZd21avkapHKvjB8H1wXpV5jCJPcVfDY7GdbLhmGVwaOTWpNc2Hm71SdQq3o/Y8Sqzr/vEXQcAYrJB4aM7+iwNf0DVLLl579PZxWjaOtNMm6mHqHDL1yb/oRCQoeZaEbD8bWZpYnc6sI0y7s+FuacquN3bCmpOcGOIs15vHPluIahygj8nohlCOvbR0qG3saBfMN9hyD047bLjTs3aqPJ97wG0YT4vrtmCM04GmRTByJpVF+JKJzIt15Vaz5y1Pdk16iHksOOr7SN9XSvy2yvHbtOH76wmj+2Z869G/9vIVeC855jb4EONt1/7DvtJ2vGsMfdPjxNjfLoiRurI3aWdrvzixtnckdRiX64s7OR9scOu1n8eQnrIyAWNAkiMEA1BmVS9gNz1ln2TS1cjV3mjHkFD1x1D8Yt5F/vWWV2a5A8n5/gNg9+dTr/BOzXOfQvo+Y0C9P8sQ3P4GVC9nKo0IAAA=
       "description": "Your session ID",
       "value": "",
       "required": true
     },    
-    "STARTING_BOT_MESSAGE": {
+    "STARTING_BOT_MESSAGE": {yes
       "description": "Enable starting message (yes/no)",
       "value": "yes",
       "required": true
     },
-    "PRESENCE": {
+    "PRESENCE": {recording
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
       "value": "",
       "required": false
     },
-    "ANTIDELETE_SENT_INBOX": {
+    "ANTIDELETE_SENT_INBOX": {no
       "description": "Enable anti-delete to be sent inbox (yes/no)",
       "value": "yes",
       "required": false
@@ -130,16 +130,16 @@
       "required": false
     },
     "CHATBOT": {
-      "description": "Enable text chatbot (yes/no)",
+      "description": no"Enable text chatbot (yes/no)",
       "value": "no",
       "required": false
     },
-    "WELCOME_MESSAGE": {
+    "WELCOME_MESSAGE": {yes
       "description": "Enable welcoming message in groups (yes/no)",
       "value": "no",
       "required": false
     },
-    "GOODBYE_MESSAGE": {
+    "GOODBYE_MESSAGE": {yes
       "description": "Enable  goodbye in groups (yes/no)",
       "value": "no",
       "required": false
