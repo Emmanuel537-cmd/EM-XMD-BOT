@@ -11,12 +11,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://whatsapp.com/channel/0029Vb5AdYhGJP88eUAzqP0u" height="40" width="100%">
+  <img src="https://files.catbox.moe/lyna05.jpg" height="40" width="100%">
 </p>
 
 <!-- Banner Image -->
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029Vb5AdYhGJP88eUAzqP0u">
+  <a href="https://files.catbox.moe/lyna05.jpg">
     <img src="https://whatsapp.com/channel/0029Vb5AdYhGJP88eUAzqP0u" width="100%" height="auto">
   </a>
 </p>
