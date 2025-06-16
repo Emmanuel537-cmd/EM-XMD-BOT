@@ -11,24 +11,24 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+  <img src="https://whatsapp.com/channel/0029Vb5AdYhGJP88eUAzqP0u" height="40" width="100%">
 </p>
 
 <!-- Banner Image -->
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vb5AdYhGJP88eUAzqP0u">
-    <img src="https://files.catbox.moe/c07f3s.jpeg" width="100%" height="auto">
+    <img src="https://whatsapp.com/channel/0029Vb5AdYhGJP88eUAzqP0u" width="100%" height="auto">
   </a>
 </p>
 
 <!-- Action Buttons -->
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vb5AdYhGJP88eUAzqP0u">
-    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_QUANTUM_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_QUANTUM_SESSION-000000?style=for-the-badge&logo=Car&logoColor=blue&color=skyblue" width="260" height="50"/>
   </a>
   
-  <a href="https://www.ibrahimadams.site/Deploy">
-    <img title="DEPLOY QUANTUM BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+  <a href="https://github.com/Emmanuel537-cmd">
+    <img title="https://whatsapp.com/channel/0029Vb5AdYhGJP88eUAzqP0u" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
   </a>
 </p>
 
