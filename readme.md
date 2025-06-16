@@ -24,7 +24,7 @@
 <!-- Action Buttons -->
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vb5AdYhGJP88eUAzqP0u">
-    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_EM_XMD_SESSION-000000?style=for-the-badge&logo=Car&logoColor=blue&color=skyblue" width="260" height="50"/>
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_EM_XMD_CHANNEL-000000?style=for-the-badge&logo=Car&logoColor=blue&color=skyblue" width="260" height="50"/>
   </a>
   
   <a href="https://github.com/Emmanuel537-cmd">
